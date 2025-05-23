@@ -1,12 +1,12 @@
 basic:
-    name: 'Dr. Gwen McClure'
+    name: 'Kaya Glover'
     breakpoints:
         - 640
         - 1024
         - 1200
     pages:
-        - 'https://www.bauch.com/consectetur-magni-fugiat-quia'
-        - 'https://www.considine.biz/est-id-dolor-cumque-debitis-qui-maxime'
+        - 'https://olson.com/quam-voluptas-vero-culpa-quis-ipsa'
+        - 'https://medhurst.info/'
     monitoring:
         days: {  }
         type: ''
@@ -22,9 +22,14 @@ advanced:
     custom_js: ''
     custom_css: ''
     mock_content: ''
+    sensitivity: 15
+    night_mode: ''
+    retina_images: ''
     performance:
         workers_production: 30
         workers_nonproduction: 10
         workers_production_delay: 0
         workers_nonproduction_delay: 0
     stabilize: true
+proxy: false
+type: multiple-sites
